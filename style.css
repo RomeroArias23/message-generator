@@ -70,11 +70,3 @@ transform: translate(2px, 2px);
   padding: 12px 50px;
 }
 }
-
-#output {
-  margin: 25px auto;
-  padding-top: 20px;
-  font-size: 18px;
-  color: white;
-  font-family: ITCAvantGardeStd-Bk, Arial, sans-serif;
-}
