@@ -1,35 +1,35 @@
-# Generador de Mensajes Aleatorios
+# Random Message Generator
 
-Mini-juego Generador de Mensajes Aleatorios! Este mini juego es una aplicación web sencilla que genera mensajes aleatorios para entretener a fans de Alejandra Pizarnik o Tiago PZK. Puedes probar el juego en el siguiente sitio web:
+Random Message Generator mini-game! This mini-game is a simple web application that generates random messages to entertain fans of Alejandra Pizarnik or Tiago PZK. You can try the game at the following website:
 
 [https://romeroarias23.github.io/message-generator/](https://romeroarias23.github.io/message-generator/)
 
-## Descripción
+## Description
 
-El Generador de Mensajes Aleatorios es un juego que crea mensajes al azar cada vez que haces clic en el botón "Generar". Los mensajes pueden ser inspiradores, graciosos, o simplemente inesperados, ¡haciendo que cada clic sea una sorpresa!
+The Random Message Generator is a game that creates random messages each time you click the "Generate" button. The messages can be inspirational, funny, or just unexpected, making each click a surprise!
 
-## Características
+## Features
 
--   **Interfaz Simple:**  Una interfaz de usuario amigable y fácil de usar.
--   **Generación Aleatoria:**  Cada mensaje es generado de forma aleatoria, garantizando una experiencia única en cada juego.
--   **Diversidad de Mensajes:**  Una variedad de mensajes que pueden sorprender y divertir a los jugadores.
+- **Simple Interface:** A user-friendly and easy-to-use user interface.
+- **Random Generation:** Each message is randomly generated, ensuring a unique experience every time.
+- **Diversity of Messages:** A variety of messages that can surprise and amuse players.
 
-## Cómo Jugar
+## How to Play
 
-1.  **Accede al Sitio:**  Visita  [https://romeroarias23.github.io/message-generator/](https://romeroarias23.github.io/message-generator/).
-2.  **Genera un Mensaje:**  Haz clic en el botón "Generar" para ver un nuevo mensaje.
-3.  **Disfruta y Comparte:**  Disfruta del mensaje generado y si te gusta, compártelo con tus amigos.
+1. **Access the Site:** Visit [https://romeroarias23.github.io/message-generator/](https://romeroarias23.github.io/message-generator/).
+2. **Generate a Message:** Click on the "Generate" button to see a new message.
+3. **Enjoy and Share:** Enjoy the generated message and if you like it, share it with your friends.
 
-## Tecnologías Utilizadas
+## Technologies Used
 
--   **HTML5**: Para la estructura del sitio.
--   **CSS3**: Para el diseño y la presentación visual.
--   **JavaScript**: Para la lógica de generación de mensajes y la interacción del usuario.
+- **HTML5**: For the site structure.
+- **CSS3**: For the design and visual presentation.
+- **JavaScript**: For the message generation logic and user interaction.
 
-## Contribuciones
+## Contributions
 
-Si deseas contribuir con nuevas ideas o mejoras para el juego, ¡siempre son bienvenidas! Puedes hacer un fork del proyecto y enviar un pull request con tus sugerencias.
+If you would like to contribute new ideas or improvements to the game, they are always welcome! You can fork the project and send a pull request with your suggestions.
 
-## Contacto
+## Contact
 
-Para cualquier duda o comentario, puedes contactar al desarrollador a través de GitHub o mediante el correo electrónico:  arias.dromero@gmail.com 
+For any questions or comments, you can contact the developer through GitHub or by email at: arias.dromero@gmail.com
